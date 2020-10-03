@@ -71,6 +71,7 @@
             android:layout_height="60dp"
             android:textSize="30dp"
             android:elevation="5dp"
+            android:id="@+id/btnLogin"
             android:background="@drawable/custom_button"
             android:text="Login"/>
     </LinearLayout>
